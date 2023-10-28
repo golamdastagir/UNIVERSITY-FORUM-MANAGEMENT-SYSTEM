@@ -39,10 +39,10 @@ We hope this system enhances the university experience and fosters a sense of co
 
 ## Some Demo images:
 
-<img src="./demo_images/userProfile.png" alt="Profile" width="350" /> <img src="./demo_images/search.png" alt="Search" width="350" />
+<img src="./demo_images/userProfile.png" alt="Profile" width="350" /> <img src="./demo_images/q&a.png" alt="Q&A" width="350" />
 <img src="./demo_images/lost.png" alt="Lost and Found" width="350" />
-<img src="./demo_images/q&a.png" alt="Q&A" width="350" />
 <img src="./demo_images/fac_rev.png" alt="Faculty Review" width="350" />
+<img src="./demo_images/search.png" alt="Search" width="350" />
 
 
 ### This project is prepared by:
